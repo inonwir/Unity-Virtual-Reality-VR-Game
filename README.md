@@ -1,6 +1,6 @@
 # VR-Game-by-Unity
-Action VR game Batman vs Nazis
+Action VR game Batman vs Nazis <br\>
 
-# Computer Graphic
-# Unity Game Developer
-# Virtual Reality (VR Game)
+Computer Graphic<br\>
+Unity Game Developer<br\>
+Virtual Reality (VR Game)<br\>
